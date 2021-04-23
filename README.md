@@ -8,7 +8,9 @@ Note that these reference designs refer to the VCI SMART Health Cards: Vaccinati
 
 ## Designs
 PDF/ Printable Document
+
 Patient portal page
+
 Mobile apps (forthcoming)
 
 
