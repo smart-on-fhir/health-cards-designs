@@ -15,7 +15,8 @@ Mobile apps (forthcoming)
 
 
 ## Elements
-Patient and Clinical Data
+
+###Patient and Clinical Data
 All patient data and clinical data that are present in the SMART Health Card should be displayed clearly, prominently, and clear labels, as they are in the corresponding data payload.
 
 If data must be reformatted, adjusted for legibility, or translated, make every effort to ensure that they are consistent with the original data payload.
