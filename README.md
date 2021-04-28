@@ -33,16 +33,17 @@ The text “SMART Health Cards” and SMART logo should appear next to the QR co
 ### Buttons and Interactive Elements
 Buttons and interactive elements enable functions including  
 
-Downloading one or more SMART Health Cards QR as part of a PDF document
-Downloading one or more SMART Health Cards as a .smart-health-card file
-Displaying a SMART Health Card as a QR code
+* Downloading one or more SMART Health Cards QR as part of a PDF document
+* Downloading one or more SMART Health Cards as a .smart-health-card file
+* Displaying a SMART Health Card as a QR code
 
 Interactive elements should be displayed in close proximity to the patient and clinical data as described above.
 
 ### Additional Information
 Provide key information about SMART Health Cards, including that they 
-Hold important health information
-Can be scanned or shared to verify the information with the issuer
+
+* Hold important health information
+* Can be scanned or shared to verify the information with the issuer
 
 Provide a privacy reminder that scanning the QR code or sharing the file will transmit all of the included personal and clinical data.
 
