@@ -13,7 +13,7 @@ Patient portal page
 
 Mobile apps (forthcoming)
 
-Designs are available as PDF and SVG in this repo, as well as original Figma here: https://www.figma.com/file/ttuzXvBqogJCyF6cr4ZH23/SMART®-Health-Card-Reference-Designs
+Designs are available as PDF and SVG in this repo, as well as original Figma here: https://www.figma.com/community/file/969941235839543745/SMART%C2%AE-Health-Card-Reference-Designs
 
 
 ## Elements
