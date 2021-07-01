@@ -63,7 +63,7 @@ Issuers are encouraged to include their logo on SMART Health Cards as shown in t
 
 At this time, the use of issuer logos by third parties requires prior arrangement with and approval from issuers.
 
-The use of the SMART logo requires adherence to the SMART brand guidelines, which can be attested to at the SMART Health IT brand page. (Note: logo use agreement is work-in-progress.)
+The use of the SMART logo requires adherence to the SMART brand guidelines, which can be attested to at the SMART Health IT brand page, here: https://smarthealthit.org/smart-logo-for-smart-health-cards/
 
 
 ## Participants
