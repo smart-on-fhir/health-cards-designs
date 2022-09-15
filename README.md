@@ -67,4 +67,4 @@ The use of the SMART logo requires adherence to the SMART brand guidelines, whic
 
 
 ## Participants
-One group building on and contributing to the SMART Health Cards Framework is the *Vaccination Credential Initiative*. See https://vaccinationcredential.org/ for participants.
+One group building on and contributing to the SMART Health Cards Framework is the *VCI*. See https://vci.org/ for participants.
